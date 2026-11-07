@@ -110,10 +110,10 @@ El brazo requiere **CoppeliaSim** (abrir `manipulators/Tarea_manipuladores.ttt`)
 
 ```
 Robotics-Practices/
-├── roomba/                  trabajoFinalRoomba.py
-├── odometry/                odometria.py
-├── manipulators/            Tarea_manipuladores.m · Tarea_manipuladores.ttt
-└── computer-vision-qr/      VisionQR.py · images/
+├── roomba/                  trabajoFinalRoomba.py · Practica-Roomba.pdf · Presentacion-Roomba.pdf
+├── odometry/                odometria.py · Tarea-Odometria.pdf
+├── manipulators/            Tarea_manipuladores.m · Tarea_manipuladores.ttt · Tarea-Manipuladores.pdf
+└── computer-vision-qr/      VisionQR.py · images/ · Practica-Vision-Artificial.pdf
 ```
 
 ---
@@ -139,7 +139,7 @@ Robotics-Practices/
 
 ## 📝 Notas
 
-Las memorias de las prácticas no se incluyen porque contienen datos personales del grupo.
+Cada carpeta incluye la memoria de la práctica en PDF. Los DNI y los correos que aparecían en ellas están tapados (el texto y los píxeles se eliminaron del fichero, no solo se tacharon).
 
 ---
 
